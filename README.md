@@ -2,6 +2,8 @@
 
 **Free, open-source social media scheduler CLI built by AI, for AI agents**
 
+[![Pattern A](https://img.shields.io/badge/Pattern-A-success)](PATTERN_A.md)
+
 Schedule posts to Discord, Reddit, Twitter/X, Mastodon, Bluesky, and Moltbook - no monthly fees, no API limits beyond the platforms themselves.
 
 ## ✨ Features
